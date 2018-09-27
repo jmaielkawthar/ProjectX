@@ -351,7 +351,6 @@
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="TypeScripts\file1.ts" />
     <TypeScriptCompile Include="TypeScripts\file2.ts" />
     <TypeScriptCompile Include="Scripts\index.d.ts" />
     <TypeScriptCompile Include="TypeScripts\file3.ts" />
